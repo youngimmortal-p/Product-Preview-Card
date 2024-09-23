@@ -29,13 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/FireShot%20Capture%20008%20-%20Product%20preview%20Card%20-%20127.0.0.1.png)
+![./images/FireShot%20Capture%20008%20-%20Product%20preview%20Card%20-%20127.0.0.1.png](./images/FireShot%20Capture%20008%20-%20Product%20preview%20Card%20-%20127.0.0.1.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/youngimmortal-p/Product-Preview-Card.git)
-- Live Site URL: [Add live site URL here](https://youngimmortal-p.github.io/Product-Preview-Card/)
+- Solution URL: [https://github.com/youngimmortal-p/Product-Preview-Card.git](https://github.com/youngimmortal-p/Product-Preview-Card.git)
+- Live Site URL: [https://youngimmortal-p.github.io/Product-Preview-Card/](https://youngimmortal-p.github.io/Product-Preview-Card/)
 
 
 
@@ -60,5 +60,5 @@ I learnt how to use media queries to provide optimal layout for various screen s
 
 ## Author
 
-- Frontend Mentor - [@youngimmortal-p](https://www.frontendmentor.io/profile/youngimmortal-p)
-- Twitter - [@OdugbemiOp51906](https://www.twitter.com/OdugbemiOp51906)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/youngimmortal-p](https://www.frontendmentor.io/profile/youngimmortal-p)
+- Twitter - [https://www.twitter.com/OdugbemiOp51906](https://www.twitter.com/OdugbemiOp51906)
