@@ -1,0 +1,167 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+main{
+    width: 490px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 500;
+    color:  hsl(228, 12%, 48%);
+    background-color: hsl(0, 0%, 100%);
+    margin: 90px auto;
+    border-radius: 10px;
+}
+img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.hidden-desktop{
+    display: block;
+}
+.hidden-mobile{
+    display: none;
+}
+section{
+    margin: 20px;
+}
+h4{
+    font-weight: 500;
+}
+h1{
+    font-family: 'Fraunces';
+    font-size: 25px;
+    color: hsl(212, 21%, 14%);
+    margin-top: 10px;
+}
+.info{
+    margin-top: 5px;
+    font-size: 13px;
+}
+.price{
+    display: flex;
+    margin-top: 10px;
+}
+.price h2{
+    font-family: 'Fraunces';
+    font-size: 25px;
+    font-weight: 700;
+    color: hsl(158, 36%, 37%);
+}
+s{
+    position: relative;
+    top: 6px;
+    left: 10px;
+}
+button{
+    display: block;
+    padding: 10px;
+    margin: 15px auto;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: hsl(158, 36%, 37%);
+    font-size: 15px;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+    transition: 0.9s;
+}
+button:hover{
+    cursor: pointer;
+    background-color: hsl(157, 34%, 13%);
+}
+#res-EL{
+    text-align: center;
+    color: green;
+    margin-top: 10px;
+    font-family: 'Montserrat';
+    transition: 0.9s;
+}
+@media (max-width: 400px){
+
+
+main{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 500;
+    color:  hsl(228, 12%, 48%);
+    background-color: hsl(0, 0%, 100%);
+    margin: 20px auto;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+img{
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+ .hidden-desktop{
+    display: none;
+}
+ .hidden-mobile{
+    display: block;
+}
+h4{
+    font-weight: 500;
+}
+h1{
+    font-family: 'Fraunces';
+    font-size: 30px;
+    color: hsl(212, 21%, 14%);
+    margin-top: 10px;
+}
+section{
+    margin: 20px;
+}
+.info{
+    margin-top: 10px;
+}
+.price{
+    display: flex;
+    margin-top: 10px;
+}
+.price h2{
+    font-family: 'Fraunces';
+    font-size: 30px;
+    font-weight: 700;
+    color: hsl(158, 36%, 37%);
+}
+s{
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+button{
+    display: block;
+    padding: 20px;
+    margin: 20px auto;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: hsl(158, 36%, 37%);
+    font-size: 15px;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+    transition: 0.9s;
+}
+button:hover{
+    cursor: pointer;
+    background-color: hsl(157, 34%, 13%);
+}
+#res-EL{
+    text-align: center;
+    color: green;
+    transition: 0.3s;
+}
+}
