@@ -55,7 +55,7 @@ I learnt how to use media queries to provide optimal layout for various screen s
 
 ### Useful resources
 
-- [Example resource 1](https://www.ecommercethesis.com/how-to-display-different-images-on-mobile-and-desktop-devices/#:~:text=Use%20Media%20Queries%3A%20Media%20queries,of%20the%20device%20being%20used) - This helped me to know how to use media queries . I really liked this pattern and will use it going forward.
+- [(https://www.ecommercethesis.com/how-to-display-different-images-on-mobile-and-desktop-devices/#:~:text=Use%20Media%20Queries%3A%20Media%20queries,of%20the%20device%20being%20used](https://www.ecommercethesis.com/how-to-display-different-images-on-mobile-and-desktop-devices/#:~:text=Use%20Media%20Queries%3A%20Media%20queries,of%20the%20device%20being%20used) - This helped me to know how to use media queries . I really liked this pattern and will use it going forward.
 
 
 ## Author
